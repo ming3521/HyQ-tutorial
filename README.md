@@ -1,5 +1,5 @@
 # HyQ：混合量子算法工具包 -- 使用教程
-由本人主导开发的华翊量子化学算法库 HyQ (曾用名：HYQ-ALG-LIB) 已在 PyPI 开源，网址：https://pypi.org/project/hyq/ 
+由本人主要负责开发的华翊量子化学算法库 HyQ (曾用名：HYQ-ALG-LIB) 已在 PyPI 开源，网址：https://pypi.org/project/hyq/ 
 
 此Github仓库是基于HyQ量子化学库的一些使用示例与教程，包含编译功能使用、分子哈密顿量生成、VQE/VarQITE/SA-QITE等变分量子化学算法的原理及其求解器的调用方式 等。 用户可以在安装好 HyQ 算法库 之后，使用本仓库中的Jupyter Book文档学习库的使用与开发方法。
 
